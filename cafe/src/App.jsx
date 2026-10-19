@@ -170,7 +170,7 @@ function About() {
         <div className="about-copy">
           <span className="section-kicker">UM POUCO SOBRE NÓS</span>
           <h2>Mais que café.<br /><em>Um respiro no dia.</em></h2>
-          <p>A gente acredita nas coisas simples: um bom café, ingredientes de verdade e tempo para aproveitar. Um lugar para chegar sem pressa, encontrar alguém ou só curtir a vista.</p>
+          <p>Acreditamos nas coisas simples: um bom café, ingredientes de verdade e tempo para aproveitar. Um lugar para chegar sem pressa.</p>
           <a className="text-link" href="#contato">Venha conhecer <ArrowRight size={17} /></a>
         </div>
       </div>

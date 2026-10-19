@@ -165,7 +165,7 @@ function About() {
       <div className="container about-inner">
         <div className="about-mark" aria-hidden="true">
           <div className="about-mark-circle"><Coffee size={44} strokeWidth={1.2} /></div>
-          <span>DESDE O PRIMEIRO GOLE</span>
+          <span>DESDE 1900 E BOLINHA</span>
         </div>
         <div className="about-copy">
           <span className="section-kicker">UM POUCO SOBRE NÓS</span>
